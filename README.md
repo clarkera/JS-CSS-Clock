@@ -2,7 +2,7 @@
 
 ## Description
 
-A simple clock created with JavaScript and CSS. Future developments in progress..
+A simple clock created with HTML,JavaScript, and CSS. Future developments in progress..
 
 ## Link
 
